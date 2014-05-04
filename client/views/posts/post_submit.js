@@ -20,6 +20,6 @@ Template.postSubmit.events({
       }
     });
 
-    Router.go('postsList');
+    Router.go('home');
   }
 });
