@@ -8,7 +8,7 @@ if (Posts.find().count() === 0) {
   });
   var tom = Meteor.users.findOne(tomId);
   var sachaId = Meteor.users.insert({
-    prifile: { name: 'Sacha Greif' }
+    profile: { name: 'Sacha Greif' }
   });
   var sacha = Meteor.users.findOne(sachaId);
 
