@@ -32,8 +32,8 @@ body {
 .post.invisible { opacity: 0 }
 .post .upvote {
   display: block;
-  margin: 7px 12px 0 0
-   float: left;
+  margin: 7px 12px 0 0;
+  float: left;
 }
 .post .post-content { float: left }
 .post .post-content h3 {
